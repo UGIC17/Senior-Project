@@ -1,4 +1,6 @@
 # User-Guided Image Colorization
+This project still in development
+
 Req.
 
 python 3.6 </br>
